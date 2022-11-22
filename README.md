@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexesom&show_icons=true&theme=vue-dark)
+![Alexey's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexesom&show_icons=true&theme=vue-dark)
 
 <!--
 **alexesom/alexesom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
